@@ -1,0 +1,12 @@
+{
+  "name": "test-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A short description of your syntax theme",
+  "repository": "https://github.com/atom/test-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "keywords": ["test"]
+}
